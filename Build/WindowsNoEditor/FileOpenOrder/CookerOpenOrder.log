@@ -314,15 +314,16 @@
 "../../../../../../Unreal Projects/ITAS/Content/Textures/WoodenDoor/WoodenDoor.uasset" 313
 "../../../../../../Unreal Projects/ITAS/Content/Textures/WoodenDoor/WoodenDoor_Inst.uasset" 314
 "../../../../../../Unreal Projects/ITAS/Content/Meshes/Room/Blinds.uasset" 315
-"../../../../../../Unreal Projects/ITAS/Content/Meshes/Doors/Doors.uasset" 316
-"../../../../../../Unreal Projects/ITAS/Content/Meshes/rooms/auditory_230/Auditory_230.uasset" 317
-"../../../../../../Unreal Projects/ITAS/Content/Meshes/rooms/Corridor/Corridor.uasset" 318
-"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 319
-"../../../../../../Unreal Projects/ITAS/Content/Textures/HDR/EditorSkySphere.uasset" 320
-"../../../../../../Unreal Projects/ITAS/Content/Maps/Itas_Final.umap" 321
-"../../../../../../Unreal Projects/ITAS/Content/UI/UI_MainMenu.uasset" 322
-"../../../../../../Unreal Projects/ITAS/Content/BP/GM_MainMenu.uasset" 323
-"../../../../../../Unreal Projects/ITAS/Content/Maps/Itas_Final_Menu_BuiltData.uasset" 324
-"../../../../../../Unreal Projects/ITAS/Content/Maps/Itas_Final_Menu.umap" 325
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 326
-"../../../Engine/Content/Maps/Entry.umap" 327
+"../../../../../../Unreal Projects/ITAS/Content/Meshes/Room/FloorTileColor.uasset" 316
+"../../../../../../Unreal Projects/ITAS/Content/Meshes/Doors/Doors.uasset" 317
+"../../../../../../Unreal Projects/ITAS/Content/Meshes/rooms/auditory_230/Auditory_230.uasset" 318
+"../../../../../../Unreal Projects/ITAS/Content/Meshes/rooms/Corridor/Corridor.uasset" 319
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 320
+"../../../../../../Unreal Projects/ITAS/Content/Textures/HDR/EditorSkySphere.uasset" 321
+"../../../../../../Unreal Projects/ITAS/Content/Maps/Itas_Final.umap" 322
+"../../../../../../Unreal Projects/ITAS/Content/UI/UI_MainMenu.uasset" 323
+"../../../../../../Unreal Projects/ITAS/Content/BP/GM_MainMenu.uasset" 324
+"../../../../../../Unreal Projects/ITAS/Content/Maps/Itas_Final_Menu_BuiltData.uasset" 325
+"../../../../../../Unreal Projects/ITAS/Content/Maps/Itas_Final_Menu.umap" 326
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 327
+"../../../Engine/Content/Maps/Entry.umap" 328
